@@ -1,0 +1,11 @@
+
+· GITIGNORE
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+ 
+# Python cache
+__pycache__/
+*.pyc
+ 
