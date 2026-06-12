@@ -17,11 +17,8 @@ get every hinge onto its correct pin without ever hitting a wall
 ## Running
 
 ```
-python lockpick_solver_gui.py
+python lockpick_solver_gui.pyw
 ```
-
-or rename the file to `lockpick_solver_gui.pyw` so no console window
-opens.
 
 ## How to use
 
